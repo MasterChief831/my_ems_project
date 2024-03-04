@@ -9,6 +9,7 @@ public class ServerSideApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ServerSideApplication.class, args);
 		System.out.println("connection established");
+		System.out.println("Connection established");
 	}
 
 }
